@@ -13,6 +13,7 @@ namespace VersionTest
             Console.WriteLine("Constructing! This is for the release!");
             // Another test
             // Version 1.5
+            // bump!
         }
     }
 }
