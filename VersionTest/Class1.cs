@@ -10,7 +10,7 @@ namespace VersionTest
     {
         public Class1()
         {
-            Console.WriteLine("Constructing!");
+            Console.WriteLine("Constructing! This is for the release!");
             // Another test
         }
     }
