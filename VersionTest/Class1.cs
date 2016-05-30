@@ -11,6 +11,7 @@ namespace VersionTest
         public Class1()
         {
             Console.WriteLine("Constructing!");
+            // Another test
         }
     }
 }
