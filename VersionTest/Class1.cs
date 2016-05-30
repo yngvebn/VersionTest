@@ -14,6 +14,8 @@ namespace VersionTest
             // Another test
             // Version 1.5
             // bump!
+
+            Console.WriteLine("Feature implemented!");
         }
     }
 }
